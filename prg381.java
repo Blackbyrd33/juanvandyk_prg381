@@ -6,5 +6,6 @@ public class prg381 {
         System.out.println("Test");
         //comment
         //comment2
+        //comment3
     }
 }
